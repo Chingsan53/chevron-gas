@@ -35,7 +35,7 @@ const numberData = [
 
 const App = () => {
   return (
-    <div className="">
+    <div>
       <Menu />
     </div>
   );
@@ -45,7 +45,7 @@ const Menu = () => {
   const numbers = numberData;
   return (
     <div>
-      <ul className="">
+      <ul className="container">
         {numbers.map((number) => (
           <Number numberObj={number} key={number.name} />
         ))}
@@ -57,8 +57,8 @@ const Menu = () => {
 const Number = ({ numberObj }) => {
   return (
     <div>
-      <li className="cards-container">
-        <div className="card">
+      <li className="pizza">
+        <div className="">
           <h3>{numberObj.name}</h3>
           <p>{numberObj.phoneNumber}</p>
           <p>{numberObj.gmail}</p>
