@@ -31,6 +31,12 @@ const numberData = [
     gmail: "LaraHowarth011@gmail.com",
     status: "3 usage available",
   },
+  {
+    name: "Graham Lee",
+    phoneNumber: "(704) 868-1258",
+    gmail: "grahamlee9388@gmail.com",
+    status: "3 usage available",
+  },
 ];
 
 const App = () => {
