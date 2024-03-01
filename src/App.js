@@ -11,13 +11,13 @@ const numberData = [
     name: "Rick Robertson",
     phoneNumber: "(920) 791-1869",
     gmail: "RickRobertson766@gmail.com",
-    status: "3 usage available",
+    status: "0 usage available",
   },
   {
     name: "Steven Adams",
     phoneNumber: "(704) 495-7404",
     gmail: "StevenAdams964@gmail.com",
-    status: "2 usage available",
+    status: "0 usage available",
   },
   {
     name: "Greg Stevenson",
@@ -35,7 +35,7 @@ const numberData = [
     name: "Graham Lee",
     phoneNumber: "(704) 868-1258",
     gmail: "grahamlee9388@gmail.com",
-    status: "3 usage available",
+    status: "0 usage available",
   },
 ];
 
