@@ -26,18 +26,19 @@ const numberData = [
     gmail: "williambenson11@gmail.com",
     status: "3 usage available",
   },
-  {
-    name: "Mike Tyson",
-    phoneNumber: "(803) 236-7862",
-    gmail: "miketyson8299@gmail.com",
-    status: "3 usage available",
-  },
-  {
-    name: "Alex Nguyen",
-    phoneNumber: "(419) 796-2046",
-    gmail: "alexnguyen8287@gmai.com",
-    status: "3 usage available",
-  },
+  // Will include it later. Expect to include them on 03/05/2024
+  // {
+  //   name: "Mike Tyson",
+  //   phoneNumber: "(803) 236-7862",
+  //   gmail: "miketyson8299@gmail.com",
+  //   status: "3 usage available",
+  // },
+  // {
+  //   name: "Alex Nguyen",
+  //   phoneNumber: "(419) 796-2046",
+  //   gmail: "alexnguyen8287@gmai.com",
+  //   status: "3 usage available",
+  // },
   {
     name: "More on the way. Please be patient",
     phoneNumber: "Expected 3-4 new numbers a week since the bot is very slow",
