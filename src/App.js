@@ -7,23 +7,12 @@ const numberData = [
   //   gmail: "BrettHarding381@gmail.com",
   //   status: "1 usage available",
   // },
-  {
-    name: "Rick Robertson",
-    phoneNumber: "(920) 791-1869",
-    gmail: "RickRobertson766@gmail.com",
-    status: "0 usage available",
-  },
-  {
-    name: "Steven Adams",
-    phoneNumber: "(704) 495-7404",
-    gmail: "StevenAdams964@gmail.com",
-    status: "0 usage available",
-  },
+
   {
     name: "Greg Stevenson",
     phoneNumber: "(731) 991-3368",
     gmail: "GregStevenson454@gmail.com",
-    status: "3 usage available",
+    status: "2 usage available",
   },
   {
     name: "Lara Howarth",
@@ -32,10 +21,10 @@ const numberData = [
     status: "3 usage available",
   },
   {
-    name: "Graham Lee",
-    phoneNumber: "(704) 868-1258",
-    gmail: "grahamlee9388@gmail.com",
-    status: "0 usage available",
+    name: "William Benson",
+    phoneNumber: "(256) 337-1886",
+    gmail: "williambenson11@gmail.com",
+    status: "3 usage available",
   },
 ];
 
