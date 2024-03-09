@@ -20,12 +20,6 @@ const numberData = [
     gmail: "LaraHowarth011@gmail.com",
     status: "3 usage available",
   },
-  {
-    name: "William Benson",
-    phoneNumber: "(256) 337-1886",
-    gmail: "williambenson11@gmail.com",
-    status: "3 usage available",
-  },
   // Will include it later. Expect to include them on 03/05/2024
   // {
   //   name: "James Lee",
