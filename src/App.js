@@ -12,7 +12,7 @@ const numberData = [
     name: "Greg Stevenson",
     phoneNumber: "(731) 991-3368",
     gmail: "GregStevenson454@gmail.com",
-    status: "2 usage available",
+    status: "1 usage available",
   },
   {
     name: "Lara Howarth",
